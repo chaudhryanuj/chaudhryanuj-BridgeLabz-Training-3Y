@@ -1,0 +1,37 @@
+div h4{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+h4{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+p{
+    background-color: yellow
+}
+
+span{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+a{
+    
+background-color: purple;
+    color: white;
+    font-size: 20px;
+}
+
+b{
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+}
+
+
